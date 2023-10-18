@@ -1,0 +1,34 @@
+{
+  "term": "",
+  "year": "",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "dd"
+  },
+  "course_image": {
+    "content": "",
+    "website": "dd"
+  },
+  "course_title": "dd",
+  "hide_download": false,
+  "course_description": "",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "1",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "dd"
+  },
+  "learning_resource_types": [
+    "Course Introduction"
+  ],
+  "site_uid": "90daac50-78e6-4599-8ab5-c1cc8a4426c3",
+  "site_short_id": "dd"
+}
